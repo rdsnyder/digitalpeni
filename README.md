@@ -1,3 +1,1 @@
-# Juncture
-
-[examples](examples)
+# Juncture v2
