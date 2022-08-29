@@ -9,3 +9,5 @@ Juncture is a web service that renders interactive visual essays from plain text
 [Documentation](help)
 
 [Sample](https://www.google.com)
+
+[New Page](new-page)
